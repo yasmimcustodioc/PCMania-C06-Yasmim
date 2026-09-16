@@ -1,6 +1,7 @@
-# PCMania-C06-Yasmim
+# PCMania-C06-Yasmim Carvalho, Engenharia de Produção, Matrícula: 149
 
-## Uso de Inteligência Artificial
+## Uso de Inteligência Artificial:
+## Modelo: ChatGPT - 5.6 Sol
 
 ### Prompt 1
 
