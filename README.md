@@ -24,7 +24,7 @@
 >
 > Analise o que desenvolvi e indique possíveis erros ou pequenos ajustes, procurando manter a estrutura e a lógica que já criei em vez de substituir o projeto por outra implementação.
 >
-> ## Descrição do Projeto
+## Descrição do Projeto
 
 O PCMania é um sistema de compras desenvolvido em Java utilizando conceitos de Programação Orientada a Objetos.
 O sistema possui três promoções de computadores com configurações e preços definidos a partir da matrícula do aluno. O cliente pode escolher uma ou mais promoções e continuar realizando compras até selecionar a opção 0.
